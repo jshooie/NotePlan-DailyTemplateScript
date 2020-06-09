@@ -10,6 +10,8 @@ changed in the script):
 ---
 
 There are 2 ways to run:
-1) `python noteplan_script.py`
+1) `python3 noteplan_script.py`
 2) Navigate to `dist\noteplan_script` and run the executable. The executable was build with PyInstaller to create a stand
    alone version for people that do not have a Python enviroment set up.
+
+This script was developed for use with Python 3.7 on MacOS. It will not work with Python 2.7 or on Windows.
